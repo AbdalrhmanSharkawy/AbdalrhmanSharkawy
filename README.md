@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Abdalrhman Sharkawy
+- 👀 I’m interested in " Java , JS , Python , HTML5 , PHP , CSS , LUA , BDFD , MongoDB ,  C , C++ "
+- 🌱 I’m currently learning " C# "
+- 📫 How to reach me ...
+- 🖋 https://discord.gg/serverchecker
